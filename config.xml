@@ -8,5 +8,5 @@
         PhoneGap Team
     </author>
     <content src="index.html" />
-    <access origin="*" />
+    <access origin="http://54.89.65.76:4000/" />
 </widget>
